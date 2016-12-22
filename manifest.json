@@ -15,7 +15,7 @@
     "contextMenus"
   ],
   "background": {
-    "scripts": ["popup.js"]
+    "scripts": ["main.js"]
   },
   "icons": {
     "16": "icon-context.png"
